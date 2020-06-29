@@ -1,0 +1,90 @@
+Kyli attempt
+Header
+  -Logo
+    -Logo image
+  -Nav
+    -FAQ
+    -ABOUT
+  -Hero image
+  -H1: Retreat from the desk, return refreshed.
+
+Content
+  -Newletter sign-up
+    -Left side
+      -H3: Want to join the next retreat?
+      -p: Find out when we are holding our next retreat and how your company or team can sign up!
+    -Right side
+      -H3: Find out more
+      -Form for submitting email that has name@email.com
+      -Button: Download Itinerary
+
+  -Features section
+    -Camping image
+    -H2: Have the work week you always dreamed of - without the bad wifi.
+    -Tent icon
+      -p: Located in a peaceful bungalow outside of Lake Geneva, Wisconsin.
+    -Bed icon
+      -p: 12 private rooms with ensuite bathrooms, 2 group meeting rooms, and 4 breakout rooms.
+    -Fork and knife icon
+      -p: Private chef team providing on demand meals - just like your team kitchen.
+    -Footsteps icon
+      -p: 5 outdoor obstacle courses, including private beach &frac12; mile from the bungalow.
+    -Smiley icon
+      -p: Retreat facilitator to manage your day to day activities so you all get a chance to reset.
+    -Wifi icon
+      -p: Dedicated computer room for times that you must wifi.
+
+  -Example section
+    -H2: Be a better team in 5 days, like this one.
+    -Left side
+      -Team image
+    -Right side
+      -H3: LaCrue Bottle Co.<br>October 2018
+      -p: dummy text
+
+Footer
+  -Left side
+    -H3: Contact
+    -p: 555-555-5555<br>hello@unplugged.com
+  -Right side
+    -H3: Social
+    -facebook icon
+    -twitter icon
+    -instagram icon
+  -Bottom, centered
+    -p: Copyright 2019 | Unplugged
+
+Skillcrush attempt
+- Header
+    - Logo
+    - Navigation bar
+        - About
+        - FAQ
+     - Headline
+     - Image
+
+- Content Area
+    1- Newsletter signup
+        - Headline text
+        - Paragraph text
+        - Headline text
+        - Email field
+        - Submit button
+    2- Info about Unplugged
+        - Headline text
+        - Background Image
+        - Icons
+        - Text
+    3- Previous retreats
+        - Headline text
+        - Paragraph text
+        - Image
+
+- Footer
+     - Contact
+         - Headline text
+         - Contact info
+     - Social Media
+         - Headline text
+         - Social icons
+     - Copyright
